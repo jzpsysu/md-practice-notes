@@ -1,7 +1,7 @@
 remote_theme: sighingnow/jekyll-gitbook
 
-title: My Molecular Dynamics Notes
-description: Notes on molecular dynamics practice
+title: yml文件的title
+description: yml文件的description
 
 syntax_highlighter_style: pastie
 
