@@ -1,2 +1,4 @@
-# md-practice-notes readme文件第一行
+---
+title: "My Molecular Dynamics Notes"
+---
 Notes on molecular dynamics practice. readme文件第二行
