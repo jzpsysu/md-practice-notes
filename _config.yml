@@ -1,6 +1,6 @@
 remote_theme: sighingnow/jekyll-gitbook
 
-title: yml文件的title
+title: md-practice-notes
 description: yml文件的description
 
 syntax_highlighter_style: pastie
