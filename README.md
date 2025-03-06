@@ -1,2 +1,1 @@
-
-Notes on molecular dynamics practice. readme文件第二行
+Notes on molecular dynamics practice.
