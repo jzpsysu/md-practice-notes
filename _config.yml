@@ -1,6 +1,6 @@
 remote_theme: sighingnow/jekyll-gitbook
 
-title: md-practice-notes
+title: Notes on molecular dynamics practice
 description: yml文件的description
 
 syntax_highlighter_style: pastie
